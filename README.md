@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsayedd1&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsayedd1" /> </p>
 
-- 🌱 I’m currently learning **APIs and React**
+- 🌱 I’m currently learning **React and UI UX design**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, APIs**
 
 - 📫 How to reach me **yousefsayedd1@gmail.com**
 
