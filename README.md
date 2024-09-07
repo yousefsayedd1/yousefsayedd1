@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yousef Sayed</h1>
-<h3 align="center">Frontend Developer | React</h3>
+<h3 align="center">ٍSoftware Engineer | .Net Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsayedd1&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsayedd1" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, APIs**
+- 💬 Ask me about **HTML, CSS, JavaScript, C#**
 
 - 📫 How to reach me **yousefsayedd1@gmail.com**
 
