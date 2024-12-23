@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsayedd1&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsayedd1" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **EF, Web API**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C#**
+- 💬 Ask me about **HTML, CSS, JavaScript, C#, LINQ**
 
 - 📫 How to reach me **yousefsayedd1@gmail.com**
 
